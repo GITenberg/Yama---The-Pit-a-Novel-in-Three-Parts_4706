@@ -1,0 +1,38 @@
+_repo: Yama---The-Pit-a-Novel-in-Three-Parts_4706
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Guerney, Bernard Guilbert
+    birthdate: 1894
+    deathdate: 1979
+    gutenberg_agent_id: '1553'
+    url: http://www.gutenberg.org/2009/agents/1553
+creator:
+  author:
+    agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Koeprin, Alexander I.
+    - Куприн, Александр Иванович
+    - Kuprin, Aleksandr Ivanovich
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Prostitutes -- Russia -- Fiction'
+- GITenberg
+title: Yama = The Pit, a Novel in Three Parts
+url: http://www.gutenberg.org/ebooks/4706
