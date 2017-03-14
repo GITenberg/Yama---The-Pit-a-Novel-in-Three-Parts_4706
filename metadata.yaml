@@ -1,5 +1,5 @@
 _repo: Yama---The-Pit-a-Novel-in-Three-Parts_4706
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Guerney, Bernard Guilbert
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1979
     gutenberg_agent_id: '1553'
     url: http://www.gutenberg.org/2009/agents/1553
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1552
     wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4706#Yama---The-Pit-a-Novel-in-Three-Parts
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
